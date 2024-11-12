@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nodeapp-git
+  name: nodeapp-git2
   namespace: default
   labels:
     app: nodeapp
